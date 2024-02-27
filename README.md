@@ -12,7 +12,7 @@ SKILLS: Python/Tableau/Machine Learning
 
 PYTHON: importing csv, creating panda frames, concatenating panda frames, data cleaning, visualizations with seaborn
 
-MACHINE LEARNING: prediction life expectancy with Supervised Lerning: 
+MACHINE LEARNING: prediction life expectancy with Supervised Learning: 
 --> NUMERIC PREDICTION ALGORITHMS: Linear Regression - Decision Tree - Randorm Forest
 
 TABLEAU: Different dashboards --> visit:
